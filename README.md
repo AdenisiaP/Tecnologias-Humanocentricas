@@ -15,9 +15,9 @@ Você pode testar a interface e a lógica inicial de cada ferramenta diretamente
 1. **🛡️ Protetor de Direitos Universal:** Analisador local de contratos e cobranças para identificar cláusulas abusivas e proteger o cidadão frente à burocracia.
    * [Testar Protótipo no CodePen](https://codepen.io)
 2. **🤝 Rede de Apoio Comunitário:** Painel hiperlocal e descentralizado para conectar vizinhos para empréstimos de ferramentas, doações e ajuda mútua sem filtros comerciais.
-   * [Testar Protótipo no CodePen](https://codepen.io)
+   *[Testar Protótipo no CodePen](https://codepen.io)
 3. **🌱 Espaço de Acolhimento Seguro:** Interface anônima de escuta ativa e triagem emocional, com exercícios de respiração guiada e ponte direta para canais oficiais gratuitos (como o CVV).
-   * [Testar Protótipo no CodePen](https://codepen.io)
+   * • [Testar Protótipo no CodePen](https://codepen.io)
 4. **🧼 Despoluidor de Informação:** Filtro inteligente que intercepta manchetes sensacionalistas e as reescreve de forma puramente factual, mitigando gatilhos de pânico e ansiedade.
    * [Testar Protótipo no CodePen](https://codepen.io)
 
